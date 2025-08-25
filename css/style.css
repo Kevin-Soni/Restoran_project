@@ -931,3 +931,12 @@ footer .container .copyright .help a{
     border-right: 1px solid gray;
     
 }
+footer .copyright + a{
+    background-color: orange;
+    padding: 15px;
+    position: fixed;
+    top: 600px;
+    right: 130px;
+    color: white;
+    
+}

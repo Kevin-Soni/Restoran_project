@@ -37,6 +37,12 @@
     .about .about-img{
         width: 100%;
     }
+     main .main-content{
+        text-align: center;
+    }
+    main .main-pic{
+        padding: 50px;
+    }
    
 }
 @media (max-width:767px){
@@ -46,7 +52,12 @@
     .col-sm{
         width: 100%;
     }
-    
+    .reservation .reservation-video{
+        height: 500px;
+    }
+    footer .copyright{
+        text-align: center;
+    }
 }
 
 @media (max-width:575px){
@@ -61,7 +72,7 @@
     header {
         
         padding: 40px;
-        background-color: darkblue;
+        background-color: rgb(28, 28, 57);
 
         
         
