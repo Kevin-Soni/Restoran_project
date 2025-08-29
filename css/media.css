@@ -67,6 +67,12 @@
     .col-xs{
         width: 100%;
     }
+    .col-xs-12{
+        width: 100%;
+    }
+    .member .members-card {
+        padding: 70px;
+    }
 }
 @media (max-width: 991px) {
     header {
